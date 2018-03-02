@@ -35,7 +35,7 @@ $text = 'Hello';
 $tr = new GoogleTranslateForFree();
 $result = $tr->translate($source, $target, $text, $attempts);
 
-echo $result; 
+var_dump($result); 
 
 /* 
 	string(24) "Здравствуйте" 
@@ -53,7 +53,7 @@ $arr = array('hello','world');
 $tr = new GoogleTranslateForFree();
 $result = $tr->translate($source, $target, $arr, $attempts);
 
-echo $result;
+var_dump($result); 
 
 /*
 	array(2) {
