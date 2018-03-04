@@ -1,4 +1,6 @@
 # GoogleTranslateForFree
+Packagist: https://packagist.org/packages/dejurin/php-google-translate-for-free
+
 Library for free use Google Translator. With attempts connecting on failure and array support.
 
 ## Installation
