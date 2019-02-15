@@ -55,7 +55,7 @@ var_dump($result);
 $source = 'en';
 $target = 'ru';
 $attempts = 5;
-$arr = array('hello','world');
+$arr = ['hello','world'];
 
 $tr = new GoogleTranslateForFree();
 $result = $tr->translate($source, $target, $arr, $attempts);
