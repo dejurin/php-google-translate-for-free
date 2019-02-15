@@ -2,6 +2,7 @@
 Packagist: https://packagist.org/packages/dejurin/php-google-translate-for-free
 
 ![travis](https://travis-ci.org/dejurin/php-google-translate-for-free.svg?branch=master "Travis")
+[![StyleCI](https://github.styleci.io/repos/123622379/shield?branch=master)](https://github.styleci.io/repos/123622379)
 
 Library for free use Google Translator. With attempts connecting on failure and array support.
 
