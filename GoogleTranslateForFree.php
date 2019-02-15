@@ -1,7 +1,7 @@
 <?php
 
 /**
- * GoogleTranslateForFree.php
+ * GoogleTranslateForFree.php.
  *
  * Class for free use Google Translator. With attempts connecting on failure and array support.
  *
@@ -9,8 +9,8 @@
  *
  * @author Yuri Darwin
  * @author Yuri Darwin <gkhelloworld@gmail.com>
- * @copyright 2018 Yuri Darwin
- * @license https://opensource.org/licenses/GPL-3.0 GNU General Public License 3.0
+ * @copyright 2019 Yuri Darwin
+ * @license https://opensource.org/licenses/MIT
  *
  * @version 1.0.0
  */
