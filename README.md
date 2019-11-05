@@ -1,9 +1,9 @@
 # GoogleTranslateForFree
 Packagist: https://packagist.org/packages/dejurin/php-google-translate-for-free
 
-![version](https://img.shields.io/github/release/dejurin/php-google-translate-for-free.svg?style=flat)
-[![downloads](https://img.shields.io/packagist/dt/dejurin/php-google-translate-for-free.svg?style=flat)](https://packagist.org/packages/dejurin/php-google-translate-for-free)
-[![travis](https://img.shields.io/travis/dejurin/php-google-translate-for-free.svg?style=flat)](https://travis-ci.org/dejurin/php-google-translate-for-free)
+![version](https://img.shields.io/github/release/dejurin/php-google-translate-for-free.svg)
+[![downloads](https://img.shields.io/packagist/dt/dejurin/php-google-translate-for-free.svg)](https://packagist.org/packages/dejurin/php-google-translate-for-free)
+[![travis](https://img.shields.io/travis/dejurin/php-google-translate-for-free.svg)](https://travis-ci.org/dejurin/php-google-translate-for-free)
 [![StyleCI](https://github.styleci.io/repos/123622379/shield?branch=master)](https://github.styleci.io/repos/123622379)
 
 Library for free use Google Translator. With attempts connecting on failure and array support.
