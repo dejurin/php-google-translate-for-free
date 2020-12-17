@@ -72,3 +72,7 @@ var_dump($result);
 
 */
 ```
+
+## Sponsors ##
+### https://currencyrate.today/ ###
+### https://fx-w.io/ ###
