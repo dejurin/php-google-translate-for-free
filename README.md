@@ -73,6 +73,12 @@ var_dump($result);
 */
 ```
 
+### License ###
+This widget is distributed under [MIT](https://choosealicense.com/licenses/mit/) license.
+*You can use this widget for free on your sites. Nevertheless, due to the fact that we take on all the workload (third-party server), we need to pay for the equipment and we would like to receive from you, something in replacement, for example, DO NOT delete the backlink in the widget.*
+
+___
+Powered by [CurrencyRate.Today](https://currencyrate.today) ![CurrencyRate.Today](./cr-danger.svg "CurrencyRate.Today")
+
 ## Sponsors ##
-### https://currencyrate.today/ ###
 ### https://fx-w.io/ ###
