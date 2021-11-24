@@ -80,4 +80,7 @@ ___
 
 ## Sponsors ##
 ### https://currencyrate.today ###
+### https://moneyconvert.net/ ### 
+### https://co-w.io/ ###
+### https://co-in.io/ ###
 ### https://fx-w.io/ ###
