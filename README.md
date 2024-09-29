@@ -40,7 +40,7 @@ use \Dejurin\GoogleTranslateForFree;
 
 ```php
 $source = 'en';
-$target = 'ru';
+$target = 'ro';
 $attempts = 5;
 $text = 'Hello';
 
@@ -50,7 +50,7 @@ $result = $tr->translate($source, $target, $text, $attempts);
 var_dump($result); 
 
 /* 
-	string(24) "Здравствуйте" 
+	string(24) "Salut"
 */
 ```
 
@@ -58,7 +58,7 @@ var_dump($result);
 
 ```php
 $source = 'en';
-$target = 'ru';
+$target = 'uk';
 $attempts = 5;
 $arr = ['hello','world'];
 
@@ -70,9 +70,9 @@ var_dump($result);
 /*
 	array(2) {
 	  [0]=>
-	  string(24) "Здравствуйте"
+	  string(24) "salut"
 	  [1]=>
-	  string(6) "Мир"
+	  string(6) "lume"
 	}
 
 */
