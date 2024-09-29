@@ -58,7 +58,7 @@ var_dump($result);
 
 ```php
 $source = 'en';
-$target = 'uk';
+$target = 'ro';
 $attempts = 5;
 $arr = ['hello','world'];
 
